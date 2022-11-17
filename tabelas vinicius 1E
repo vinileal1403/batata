@@ -8,7 +8,6 @@
 < td>Quinta</td>
 < td>Sexta</td>
 </tr>
-
 <tr>
 < td>vini</td>
 < td>vini</td>
@@ -17,7 +16,6 @@
 < td>vini</td>
 < td>vini</td>
 </tr>
-
 <tr>
 < td>vini</td>
 < td>vini</td>
@@ -26,7 +24,6 @@
 < td>vini</td>
 < td>vini</td>
 </tr>
-
 <tr>
 < td>vini</td>
 < td>vini</td>
@@ -35,7 +32,6 @@
 < td>vini</td>
 < td>vini</td>
 </tr>
-
 <tr>
 < td>vini</td>
 < td>vini</td>
@@ -44,7 +40,6 @@
 < td>vini</td>
 < td>vini</td>
 </tr>
-
 <tr>
 < td>vini</td>
 < td>Segunda</td>
@@ -53,7 +48,6 @@
 < td>Quinta</td>
 < td>Sexta</td>
 </tr>
-
 <thead>
 <tr>
 <th>Dia</th>
@@ -79,9 +73,6 @@
 <td>P. Comput.</td>
 </tbody>
 td {
-
 border: 1px solid #000000;
-
 border-color: cor;
-
 }
