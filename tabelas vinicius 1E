@@ -17,7 +17,16 @@
 <td>9h35</td>
 <td>P. Comput.</td>
 </tbody>
+thead {
+
+background:;
+
+color: black ;
+
+font-weight: bold;
+
+}
 td {
-border: 1px solid #000000;
-border-color: cor;
+border: 1px solid;
+border-red:;
 }
