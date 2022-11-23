@@ -1,6 +1,48 @@
+body {
+  background: purple;
+}
+form label{
+  display: block;
+  font-size: 40px
+    color: black;
+}
+for input{
+  background: white;
+  display: block;
+}
+h1{
+  text-decoration: underline;
+  color: red;
+}
 
 table {
 
-background:red ;
+background: cor de
+preferencia;
 
 }
+table {
+
+background: white;
+
+}
+
+thead {
+
+background: ;
+
+color: white;
+
+font-weight: bold;
+
+}
+
+td {
+
+border: 1px solid ;
+
+border-color: black ;
+
+text aline:center
+}
+
