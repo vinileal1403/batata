@@ -12,12 +12,13 @@ for input{
 }
 h1{
   text-decoration: underline;
-  color: red;
+  color: blue;
 }
 
 table {
 
-background:green;
+background: cor de
+preferencia;
 
 }
 table {
@@ -28,7 +29,7 @@ background: white;
 
 thead {
 
-background: ;
+background: #555555;
 
 color: white;
 
@@ -38,10 +39,9 @@ font-weight: bold;
 
 td {
 
-border: 1px solid ;
+border: 1px solid #000000;
 
-border-color: black ;
+border-color: blue ;
 
 text aline:center
 }
-
